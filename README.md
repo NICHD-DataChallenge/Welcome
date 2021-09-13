@@ -1,11 +1,11 @@
-# <center>NICHD Decoding Maternal Morbidity Data Challenge <br> <center>July 1 - October 15, 2021
+# NICHD Decoding Maternal Morbidity Data Challenge <br> July 1 - October 15, 2021
 
 ## Instructions for Submitting Solutions 
 - All Challenge submissions are due no later than the deadline, October 15, 2021, at 5:00 pm ET
-- You must have your submission stored in your own private GitHub repository and provide access to NICHD-DASH 
+- You must have your submission stored in your *own* private GitHub repository and provide access to NICHD-DASH 
 -	To provide access to NICHD-DASH, you must add “NICHD-DASH” account name to your repository as a collaborator
 -	You must provide access to NICHD-DASH before the deadline, October 15, 2021, at 5:00 pm ET
-- [Your submission must comply with all the components stated in the Challenge Submission Form available at the Challenge Website](https://www.freelancer.com/contest/1953085?w=f&ngsw-bypass=)
+- Your submission must comply with all the components stated in the Challenge Submission Form available at the [Challenge Website](https://www.freelancer.com/contest/1953085?w=f&ngsw-bypass=)
 
 
 ## Challenge: Delivering New Data Solutions to Improve Pregnancy Outcomes
@@ -13,7 +13,7 @@
 Through its Decoding Maternal Morbidity Data Challenge, NICHD seeks innovative approaches to secondary analyses of data collected from the Nulliparous Pregnancy Outcomes Study: Monitoring Mothers-to-be [(nuMoM2b)](https://dash.nichd.nih.gov/study/226675). Using fresh and unique methods of computational analysis, data mining, or learning approaches, Challenge innovators can help identify factors and interventions that can reduce maternal morbidity and severe maternal morbidity. 
 <p><img align="right"src="resources/nuMoM2b.jpg" alt="mother" width="200"/> </p>
 
-<p> The goal of this Challenge is not to replicate prior findings but to focus on new discoveries using the data. Potential areas for exploration include prescription drug use; diet and nutrition; quality of healthcare including provider, insurance, or access to healthcare; risk factors for adverse outcomes; and the intersection of multiple factors. Because MM adversely impacts disadvantaged groups, including racial and ethnic minorities, at much higher rates than other groups, additional credit will be given to solutions addressing these communities. </p>
+<p> The goal of this Challenge is not to replicate prior findings but to focus on new discoveries using the data. Potential areas for exploration include prescription drug use; diet and nutrition; quality of healthcare including provider, insurance, or access to healthcare; risk factors for adverse outcomes; and the intersection of multiple factors. Because maternal morbidity adversely impacts disadvantaged groups, including racial and ethnic minorities, at much higher rates than other groups, additional credit will be given to solutions addressing these communities. </p>
 
 <p> Potential solutions should focus on drawing new or interesting associations from the nuMoM2b data that could inspire further research and intervention studies. Solutions could use established, new, or combinations of techniques to discover innovative outcomes. </p>
 
