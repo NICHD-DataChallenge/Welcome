@@ -2,9 +2,9 @@
 
 ## Instructions for Submitting Solutions 
 - All Challenge submissions are due no later than the deadline, October 15, 2021, at 5:00 pm ET
-- You must have your submission stored in your *own* private GitHub repository and provide access to NICHD-DASH 
--	To provide access to NICHD-DASH, you must add “NICHD-DASH” account name to your repository as a collaborator
--	You must provide access to NICHD-DASH before the deadline, October 15, 2021, at 5:00 pm ET
+- You must have your submission stored in your *own* private GitHub repository and provide access to NICHD-DataChallenge
+-	To provide access to NICHD-DataChallenge, you must add “NICHD-DataChallenge” account name to your repository as a collaborator
+-	You must provide access to NICHD-DataChallenge before the deadline, October 15, 2021, at 5:00 pm ET
 - Your submission must comply with all the components stated in the Challenge Submission Form available at the [Challenge Website](https://www.freelancer.com/contest/1953085?w=f&ngsw-bypass=)
 
 
